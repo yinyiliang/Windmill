@@ -133,5 +133,5 @@ Animation.RELATIVE_TO_SELF的作用就是相对于自己旋转，然后旋转中
     </RelativeLayout>
 
 
-此自定义View的代码已经开源道GitHub上，地址为：[https://github.com/yinyiliang/Windmill](https://github.com/yinyiliang/Windmill)
+此自定义View的代码已经开源道GitHub上，地址为：[http://blog.csdn.net/yy497078141/article/details/52215622](http://blog.csdn.net/yy497078141/article/details/52215622)
 如果喜欢请star！！
