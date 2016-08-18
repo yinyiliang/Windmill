@@ -2,7 +2,6 @@
 
 由于本人使用的华为手机，真是被华为天气的界面圈粉，之前有仿写了其中一个自定义的view，今天带来另一个自定义view，就是其中的风车，先上图
 
-![](http://i.imgur.com/XQASxLj.png)
 
 ![](http://oc3vooyt7.bkt.clouddn.com/GIF_20160818_203320.gif)
 
