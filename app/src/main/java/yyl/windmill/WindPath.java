@@ -140,7 +140,6 @@ public class WindPath extends View {
     public void startAnim() {
         stopAnim();
         mAnimation.setDuration(1800 - mWindVelocity*100);
-        Log.e("风速",1800 - mWindVelocity*100+"");
         startAnimation(mAnimation);
     }
 
